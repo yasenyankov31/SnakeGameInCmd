@@ -1,0 +1,11 @@
+﻿  SnakeGame.cpp
+C:\Users\Qska\source\repos\SnakeGame\SnakeGame\SnakeGame.cpp(13,1): warning C4005: 'VK_LEFT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(520): message : see previous definition of 'VK_LEFT'
+C:\Users\Qska\source\repos\SnakeGame\SnakeGame\SnakeGame.cpp(14,1): warning C4005: 'VK_RIGHT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(522): message : see previous definition of 'VK_RIGHT'
+C:\Users\Qska\source\repos\SnakeGame\SnakeGame\SnakeGame.cpp(16,1): warning C4005: 'VK_UP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(521): message : see previous definition of 'VK_UP'
+C:\Users\Qska\source\repos\SnakeGame\SnakeGame\SnakeGame.cpp(17,1): warning C4005: 'VK_DOWN': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(523): message : see previous definition of 'VK_DOWN'
+C:\Users\Qska\source\repos\SnakeGame\SnakeGame\SnakeGame.cpp(66,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SnakeGame.vcxproj -> C:\Users\Qska\source\repos\SnakeGame\Debug\SnakeGame.exe
